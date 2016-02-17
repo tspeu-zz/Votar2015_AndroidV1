@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Votar2015_1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="portadaPartidosPoliticos">Partidos Politicos</string>
+    <string name="imagenportada">imagenportada</string>
+    <string name="logopartido">imagenpartidos</string>
+    <string name="title_activity_adaç">Ada</string>
+    <string name="title_activity_detalle_partido">DetallePartido</string>
+</resources>

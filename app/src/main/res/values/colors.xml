@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#607D8B</color>
+    <color name="primaryColorDark">#455A64</color>
+    <color name="colorAccent">#ffa9ff27</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColor">#727272</color>
+    <color name="bg_group_item_expanded_state">#7B8E98</color>
+    <color name="bg_group_item_expanded_pressed_state">#ff99cc99</color>
+    <color name="bg_group_item_normal_state">#BCC8CE</color>
+    <color name="bg_group_item_normal_pressed_state">#ff99cc99</color>
+    <color name="bg_item_normal_state">#fff0f0f0</color>
+    <color name="bg_item_normal_pressed_state">#ffe0e0e0</color>
+
+
+
+
+</resources>
